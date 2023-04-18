@@ -25,7 +25,7 @@
  **Languages**:
 <p align="center"> 
   &emsp; 
-    <img alt="C" src="https://skillicons.dev/icons?i=cpp,python,java,c&theme=dark">
+    <img alt="C" src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark">
 </p>
 
   
