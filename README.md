@@ -15,7 +15,7 @@
 - 💻 Studying **Computer Science and Engineering**
 - :earth_asia: Belongs from **India**
 - :penguin: I’m an adept coder, always improving. 
-- :monocle_face: I'm interested in coding, gym and anime.
+- :monocle_face: Interested in coding, gym and anime.
 
 ## 🛠️ TechStack 
 
