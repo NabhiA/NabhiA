@@ -48,7 +48,7 @@
  **Softwares and Tools**:
   <p align="center"> 
   &emsp; 
-    <img alt="C" src="https://skillicons.dev/icons?i=aws,git,github,vscode,mysql&theme=dark">
+    <img alt="C" src="https://skillicons.dev/icons?i=aws,git,github,vscode,mysql,netlify&theme=dark">
 </p>
 <!--     [![My Skills](https://skillicons.dev/icons?i=aws,git,github,vscode,mysql&theme=dark)](https://skillicons.dev) -->
 
