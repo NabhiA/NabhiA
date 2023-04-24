@@ -68,9 +68,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="NabhiA's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NabhiA&show_icons=true&theme=radical&layout=compact" height="230px"/></a>  
-	
-	   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NabhiA&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="NabhiA" height="230px"/>
+	    <img alt="NabhiA's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NabhiA&show_icons=true&theme=radical&layout=compact" height="230px"/></a> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabhiA&theme=radical&hide_progress=false" alt="NabhiA" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
