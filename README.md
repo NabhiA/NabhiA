@@ -65,6 +65,19 @@
 <!--   <details><summary><h3>💻 GitHub Profile Stats</h3></summary> -->
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px" height="40px"> GitHub Stats
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="NabhiA's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NabhiA&show_icons=true&theme=radical&layout=compact" height="230px"/></a> 
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NabhiA&theme=radical&hide_progress=false" alt="NabhiA" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
 	
 
 
