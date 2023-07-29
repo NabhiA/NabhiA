@@ -11,7 +11,7 @@
 
 
 - :credit_card: **Nabhi Agrawal** <img src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" height="150" width="300" align="right"/>
-- :school: Currently a penultimate student at **VIT Bhopal University**
+- :school: Currently a final year student at **VIT Bhopal University**
 - 💻 Studying **Computer Science and Engineering**
 - :earth_asia: Belongs from **India**
 - :penguin: I’m an adept coder, always improving. 
