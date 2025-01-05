@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Helloo!!+Myself+Nabhi+%3C3;Welcome+to+my+profile!" alt="Title"></img> -->
-<a href="https://github.com/NabhiA><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!!+Welcome+to+my+profile;Myself+Nabhi+:)"></a>
+<a href="https://github.com/NabhiA"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!!+Welcome+to+my+profile;Myself+Nabhi+:)"></a>
 
 </div>
 <p align="center"> 
