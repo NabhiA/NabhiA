@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Helloo!!+Myself+Nabhi+%3C3;Welcome+to+my+profile!" alt="Title"></img> -->
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!!+Welcome+to+my+profile;Myself+Nabhi+:)"></a>
+<a href="https://github.com/NabhiA><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!!+Welcome+to+my+profile;Myself+Nabhi+:)"></a>
 
 </div>
 <p align="center"> 
@@ -68,8 +68,9 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px" height="40px"> GitHub Stats
 	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="NabhiA's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NabhiA&show_icons=true&theme=radical&layout=compact" height="230px"/></a> 
+<!--     <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+	    <img alt="NabhiA's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NabhiA&show_icons=true&theme=radical&layout=compact" height="230px"/>
+<!--      </a>  -->
 	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NabhiA&theme=radical&hide_progress=false" alt="NabhiA" height="230px"/>
 <br/>
 
